@@ -1,9 +1,16 @@
-# Exercise02a-UnityShipMovement
+# Exercise-02a-Ship
 
-My name is:
+Exercise for MSCH-C220
 
-[Chenxi Liu]
+A user-controlled ship for a space-shooter game. Created in Unity.
 
-My github username is:
+## Implementation
 
-[Chenxi032]
+## References
+None
+
+## Future Development
+None
+
+## Created by
+Chenxi Liu
